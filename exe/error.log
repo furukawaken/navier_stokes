@@ -1,0 +1,4 @@
+../src/PressureManager.cpp:337:19: warning: expression result unused [-Wunused-value]
+                ) * dy_inv; // (x, y)-coordinate
+                ~ ^ ~~~~~~
+1 warning generated.
