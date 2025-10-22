@@ -14,6 +14,6 @@ echo "🟡 Git commit..."
 git commit -m "$MESSAGE"
 
 echo "🔵 Git push to GitHub..."
-git push origin master
+git push origin main
 
 echo "✅ Deployed successfully!"
